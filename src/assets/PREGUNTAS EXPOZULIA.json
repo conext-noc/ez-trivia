@@ -1,0 +1,976 @@
+[
+ {
+   "PREGUNTA": "¿Qué significa \"www\"?",
+   "OPCIONES": [
+      {
+         "value": "Nada",
+         "key": "A",
+         "isCorrect": false
+      },
+      {
+         "value": "Wiki Waka Weke",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "World Wide Web",
+         "key": "C",
+         "isCorrect": true
+      },
+      {
+         "value": "We Will Win",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Cuál de estos NO forma parte de nuestros planes?",
+   "OPCIONES": [
+      {
+         "value": "MAX",
+         "key": "A",
+         "isCorrect": false
+      },
+      {
+         "value": "PLUS",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "SKY",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "STAR",
+         "key": "D",
+         "isCorrect": true
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Cuál es el nombre del fundador de Facebook?",
+   "OPCIONES": [
+      {
+         "value": "Mark Zuckerberg",
+         "key": "A",
+         "isCorrect": true
+      },
+      {
+         "value": "Donald Trump",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "Romeo Santos",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "Elon Musk",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Cómo se llama el sistema operativo de Google?",
+   "OPCIONES": [
+      {
+         "value": "Android",
+         "key": "A",
+         "isCorrect": true
+      },
+      {
+         "value": "Google OS",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "Youtube",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "Windows",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿En qué año fue fundada la red social Facebook?",
+   "OPCIONES": [
+      {
+         "value": "1998",
+         "key": "A",
+         "isCorrect": false
+      },
+      {
+         "value": "2010",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "2017",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "2004",
+         "key": "D",
+         "isCorrect": true
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿De las que te presentamos, ¿qué red social nació primero?",
+   "OPCIONES": [
+      {
+         "value": "Facebook",
+         "key": "A",
+         "isCorrect": false
+      },
+      {
+         "value": "LinkedIn",
+         "key": "B",
+         "isCorrect": true
+      },
+      {
+         "value": "Twitter",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "Instagram",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "El servicio más estable de internet se brinda a través de:",
+   "OPCIONES": [
+      {
+         "value": "Antena",
+         "key": "A",
+         "isCorrect": false
+      },
+      {
+         "value": "Fibra Óptica",
+         "key": "B",
+         "isCorrect": true
+      },
+      {
+         "value": "Cable de Cobre",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "Wifi",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "En qué año llegó el internet a Venezuela?",
+   "OPCIONES": [
+      {
+         "value": "1989",
+         "key": "A",
+         "isCorrect": true
+      },
+      {
+         "value": "1980",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "1995",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "2000",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "Cuál es el slogan de OZ.?",
+   "OPCIONES": [
+      {
+         "value": "Conectamos millones de experiencias",
+         "key": "A",
+         "isCorrect": true
+      },
+      {
+         "value": "Somos el internet más estable de Maracaibo",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "Velocidad garantizada",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "ConectadOZ contigo",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿En qué año OZ. Realizó la primera instalación residencial?",
+   "OPCIONES": [
+      {
+         "value": "2020",
+         "key": "A",
+         "isCorrect": false
+      },
+      {
+         "value": "2019",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "2021",
+         "key": "C",
+         "isCorrect": true
+      },
+      {
+         "value": "2022",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Dónde se encuentran ubicadas las oficinas de OZ.?",
+   "OPCIONES": [
+      {
+         "value": "5 de Julio",
+         "key": "A",
+         "isCorrect": true
+      },
+      {
+         "value": "Av. Delicias",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "Amparo",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "Haticos",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Cuántos megas de velocidad tiene nuestro plan PLUS?",
+   "OPCIONES": [
+      {
+         "value": "250 Megas",
+         "key": "A",
+         "isCorrect": true
+      },
+      {
+         "value": "400 Megas",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "700 Megas",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "1.000 Megas",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Cuántos megas de velocidad tiene nuestro plan MAX?",
+   "OPCIONES": [
+      {
+         "value": "250 Megas",
+         "key": "A",
+         "isCorrect": false
+      },
+      {
+         "value": "400 Megas",
+         "key": "B",
+         "isCorrect": true
+      },
+      {
+         "value": "700 Megas",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "1.000 Megas",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Cuántos megas de velocidad tiene nuestro plan NEXT?",
+   "OPCIONES": [
+      {
+         "value": "250 Megas",
+         "key": "A",
+         "isCorrect": false
+      },
+      {
+         "value": "400 Megas",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "700 Megas",
+         "key": "C",
+         "isCorrect": true
+      },
+      {
+         "value": "1.000 Megas",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Cuántos megas de velocidad tiene nuestro plan SKY?",
+   "OPCIONES": [
+      {
+         "value": "250 Megas",
+         "key": "A",
+         "isCorrect": false
+      },
+      {
+         "value": "400 Megas",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "700 Megas",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "1.000 Megas",
+         "key": "D",
+         "isCorrect": true
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Con cuál promoción contamos actualmnete?",
+   "OPCIONES": [
+      {
+         "value": "Instalación GRATIS",
+         "key": "A",
+         "isCorrect": true
+      },
+      {
+         "value": "1 mes gratis de servicio",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "2 meses gratis de servicio",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "ONT gratis",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Cuál fue la primera zona en la cual OZ. Prestó servicio?",
+   "OPCIONES": [
+      {
+         "value": "la lago",
+         "key": "A",
+         "isCorrect": true
+      },
+      {
+         "value": "Bella Vista",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "El Milagro",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "Santa Lucia",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "El sistema operativo de Windows fue creado por:",
+   "OPCIONES": [
+      {
+         "value": "ibm",
+         "key": "A",
+         "isCorrect": false
+      },
+      {
+         "value": "Microsoft",
+         "key": "B",
+         "isCorrect": true
+      },
+      {
+         "value": "Android",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "Linux",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Con qué podemos comparar un hilo de fibra óptica?",
+   "OPCIONES": [
+      {
+         "value": "Con una hebra de pelo",
+         "key": "A",
+         "isCorrect": true
+      },
+      {
+         "value": "Con un alambre",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "Con un mecate",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "Con una manguera",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Cual es otro uso que se le da a la fibra optica?",
+   "OPCIONES": [
+      {
+         "value": "electricidad",
+         "key": "A",
+         "isCorrect": true
+      },
+      {
+         "value": "iluminacion",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "mecanica",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "ninguna de las anteriores",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿En que año salio el primer iphone?",
+   "OPCIONES": [
+      {
+         "value": "2011",
+         "key": "A",
+         "isCorrect": false
+      },
+      {
+         "value": "2009",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "2007",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "2004",
+         "key": "D",
+         "isCorrect": true
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Quien invento la fibra optica?",
+   "OPCIONES": [
+      {
+         "value": "Mark Zuckerberg",
+         "key": "A",
+         "isCorrect": false
+      },
+      {
+         "value": "Narinder Singh",
+         "key": "B",
+         "isCorrect": true
+      },
+      {
+         "value": "Isaac Newton",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "Gregor Mendel",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Cual es el mejor tipo de red?",
+   "OPCIONES": [
+      {
+         "value": "Cobre",
+         "key": "A",
+         "isCorrect": false
+      },
+      {
+         "value": "Fibra",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "Inal¿mbrica",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "Todas las anteriores",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Cual fue el primer navegador web?",
+   "OPCIONES": [
+      {
+         "value": "Mozilla Firefox",
+         "key": "A",
+         "isCorrect": false
+      },
+      {
+         "value": "Netscape Navigator",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "Internet Explorer",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "World Wide Web",
+         "key": "D",
+         "isCorrect": true
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Como se pronuncia oz?",
+   "OPCIONES": [
+      {
+         "value": "Ozeta",
+         "key": "A",
+         "isCorrect": false
+      },
+      {
+         "value": "Ox",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "Ot",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "Oz",
+         "key": "D",
+         "isCorrect": true
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿De que pais proviene la empresa Sony?",
+   "OPCIONES": [
+      {
+         "value": "Japon",
+         "key": "A",
+         "isCorrect": true
+      },
+      {
+         "value": "Corea del Sur",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "Estados Unidos",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "China",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿De cual pais de Asia proviene Samsung?",
+   "OPCIONES": [
+      {
+         "value": "Corea del Sur",
+         "key": "A",
+         "isCorrect": true
+      },
+      {
+         "value": "Japon",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "China",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "Corea del Norte",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Que aplicación requiere mas ancho de banda?",
+   "OPCIONES": [
+      {
+         "value": "WhatsApp",
+         "key": "A",
+         "isCorrect": false
+      },
+      {
+         "value": "Instagram",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "Netflix",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "TikTok",
+         "key": "D",
+         "isCorrect": true
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Cual de estos juegos no necesita internet?",
+   "OPCIONES": [
+      {
+         "value": "FortNite",
+         "key": "A",
+         "isCorrect": false
+      },
+      {
+         "value": "God of War",
+         "key": "B",
+         "isCorrect": true
+      },
+      {
+         "value": "Apex Legends",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "Call of Duty",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Cuales son los colores de la marca?",
+   "OPCIONES": [
+      {
+         "value": "Negro, blanco y azul",
+         "key": "A",
+         "isCorrect": false
+      },
+      {
+         "value": "Negro, rojo y blanco",
+         "key": "B",
+         "isCorrect": true
+      },
+      {
+         "value": "Negro y rojo",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "Blanco, azul y rojo",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Que Estado de Venezuel tiene el mejor internet?",
+   "OPCIONES": [
+      {
+         "value": "Zulia",
+         "key": "A",
+         "isCorrect": true
+      },
+      {
+         "value": "Miranda",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "Delta Amacuro",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "Bol¿var",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Cual es el sistema operativo mas usado?",
+   "OPCIONES": [
+      {
+         "value": "Windows",
+         "key": "A",
+         "isCorrect": true
+      },
+      {
+         "value": "MAC",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "Linux",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "Todas las anteriores",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Cual es la velocidad ideal para navegar tranquilamente?",
+   "OPCIONES": [
+      {
+         "value": "1000",
+         "key": "A",
+         "isCorrect": false
+      },
+      {
+         "value": "250",
+         "key": "B",
+         "isCorrect": true
+      },
+      {
+         "value": "100",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "600",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Cuantos años cumplio OZ este Aniversario?",
+   "OPCIONES": [
+      {
+         "value": "3",
+         "key": "A",
+         "isCorrect": false
+      },
+      {
+         "value": "2",
+         "key": "B",
+         "isCorrect": true
+      },
+      {
+         "value": "1",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "5",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Como se llama el equipo que da internet en tu casa?",
+   "OPCIONES": [
+      {
+         "value": "Switch",
+         "key": "A",
+         "isCorrect": false
+      },
+      {
+         "value": "Router",
+         "key": "B",
+         "isCorrect": true
+      },
+      {
+         "value": "Modem",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "AP",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Cuantos pueros lan tiene normalmente un router?",
+   "OPCIONES": [
+      {
+         "value": "4",
+         "key": "A",
+         "isCorrect": true
+      },
+      {
+         "value": "6",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "2",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "1",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Como se llama el cable que da internet?",
+   "OPCIONES": [
+      {
+         "value": "USB",
+         "key": "A",
+         "isCorrect": false
+      },
+      {
+         "value": "HDMI",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "VGA",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "UTP",
+         "key": "D",
+         "isCorrect": true
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Como se llama el navegador de Apple?",
+   "OPCIONES": [
+      {
+         "value": "Safari",
+         "key": "A",
+         "isCorrect": true
+      },
+      {
+         "value": "Google Chrome",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "Internet Explorer",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "Firefox",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},{
+   "PREGUNTA": "¿En que año se creo el primer juego multijugador?",
+   "OPCIONES": [
+      {
+         "value": "1978",
+         "key": "A",
+         "isCorrect": true
+      },
+      {
+         "value": "1980",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "1990",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "2001",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+}
+]
