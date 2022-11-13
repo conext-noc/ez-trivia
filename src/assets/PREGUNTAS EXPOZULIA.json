@@ -560,10 +560,10 @@
       {
          "value": "Fibra",
          "key": "B",
-         "isCorrect": false
+         "isCorrect": true
       },
       {
-         "value": "Inal¿mbrica",
+         "value": "Inalámbrica",
          "key": "C",
          "isCorrect": false
       },
