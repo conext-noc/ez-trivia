@@ -1,10 +1,25 @@
 import styled from "styled-components";
 import questionField from "../assets/QUEST.svg";
-import ansField from "../assets/ANS.svg"
-import ansGoodField from "../assets/ANS_GOOD.svg"
-import ansBadField from "../assets/ANS_BAD.svg"
+import ansField from "../assets/ANS.svg";
+import ansGoodField from "../assets/ANS_GOOD.svg";
+import ansBadField from "../assets/ANS_BAD.svg";
+import backgnd from "../assets/BACKGROUND.png";
+
+export const Background = styled.div`
+  background-image: url(${backgnd});
+  background-repeat: no-repeat;
+  opacity: 0.6;
+  background-position: center;
+  left:0;
+  top:0;
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  z-index:-100;
+  `
 
 export const Container = styled.div`
+  z-index:10;
   margin: 0;
   padding: 15px;
   color: #eee;
@@ -15,6 +30,7 @@ export const Container = styled.div`
   display: flex;
   flex-direction: column;
   align-items: center;
+  position: relative;
 `;
 
 export const QuestionContainer = styled.div`
@@ -38,8 +54,10 @@ export const Question = styled.div`
   background-image: url(${questionField});
   background-repeat: no-repeat;
   background-size: 100% 100%;
-  
-  & > h4 {padding-left: 55px;}
+
+  & > h4 {
+    padding-left: 55px;
+  }
 `;
 
 export const QuestionTitle = styled.h3`
@@ -62,17 +80,18 @@ export const AnswerContainer = styled.div`
 `;
 
 export const Answer = styled.div`
+cursor: pointer;
   height: 50%;
   padding: 10px;
   width: calc(100% - 20px);
-  background-color:blue;
+  background-color: blue;
   display: grid;
   justify-content: center;
-  align-items:center;
+  align-items: center;
   background: url(${ansField}) no-repeat center;
   background-size: 100% 70px;
 
-  &.correct{
+  &.correct {
     background-image: url(${ansGoodField});
   }
   &.incorrect {

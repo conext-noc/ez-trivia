@@ -2,6 +2,7 @@ import { useState, useEffect } from "react";
 import {
   Answer,
   AnswerContainer,
+  Background,
   Container,
   NextButton,
   Question,
@@ -66,6 +67,7 @@ const App = () => {
 
   return (
     <Container>
+      <Background />
       <img alt="header" src={headerImg} width="300px"/>
       {!isFinished ? (
         <>
