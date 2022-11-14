@@ -10,16 +10,16 @@ export const Background = styled.div`
   background-repeat: no-repeat;
   opacity: 0.6;
   background-position: center;
-  left:0;
-  top:0;
+  left: 0;
+  top: 0;
   width: 100vw;
   height: 100vh;
   position: absolute;
-  z-index:-100;
-  `
+  z-index: -100;
+`;
 
 export const Container = styled.div`
-  z-index:10;
+  z-index: 10;
   margin: 0;
   padding: 15px;
   color: #eee;
@@ -44,8 +44,8 @@ export const QuestionContainer = styled.div`
 
 export const Question = styled.div`
   height: 10%;
-  width: 50%;
-  padding: 25px;
+  width: 55%;
+  padding: 35px;
   position: relative;
   display: flex;
   flex-direction: column;
@@ -56,7 +56,19 @@ export const Question = styled.div`
   background-size: 100% 100%;
 
   & > h4 {
-    padding-left: 55px;
+    padding-left: 25px;
+  }
+
+  @media (max-width: 560px){
+    font-size: 10px;
+    width: 80%;
+    padding: 6px;
+    & > h4 {
+    padding-left: 20px;
+  }
+  }
+  @media (max-width: 400px){
+    padding: 1px;
   }
 `;
 
@@ -66,8 +78,12 @@ export const QuestionTitle = styled.h3`
   border-radius: 5px;
   width: max-content;
   position: absolute;
-  padding: 15px;
-  top: -25px;
+  padding: 5px;
+  top: -15px;
+
+  @media (max-width: 560px){
+    font-size: 12px;
+  }
 `;
 
 export const AnswerContainer = styled.div`
@@ -80,8 +96,8 @@ export const AnswerContainer = styled.div`
 `;
 
 export const Answer = styled.div`
-cursor: pointer;
-  height: 50%;
+  cursor: pointer;
+  height: 60%;
   padding: 10px;
   width: calc(100% - 20px);
   background-color: blue;
