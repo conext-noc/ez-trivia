@@ -70,7 +70,7 @@ const App = () => {
       {!isFinished ? (
         <>
           <QuestionContainer>
-            <Question className="ribbon-outset border">
+            <Question>
               <QuestionTitle>PREGUNTA OZ:</QuestionTitle>
               <h4>{data[next]?.PREGUNTA}</h4>
             </Question>
@@ -79,7 +79,7 @@ const App = () => {
                 <Answer
                   key={opt.key}
                   onClick={(e) => selectHandler(opt, e)}
-                  className={`ribbon-outset border ${opt.key === selectedAns?.key && styledAns}`}
+                  className={`${opt.key === selectedAns?.key && styledAns}`}
                 >
                   {opt.key}- {opt.value}
                 </Answer>
