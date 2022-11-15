@@ -79,7 +79,6 @@ export const Answer = styled.div`
   align-items: center;
   background: url(${ansField}) no-repeat center;
   background-size: 60% 100%;
-  /* background-color: blue;  */
 
   &.correct {
     background-image: url(${ansGoodField});
@@ -106,3 +105,10 @@ export const NextButton = styled.button`
   background: url(${resetBtn}) no-repeat center;
   background-size: 60% 100%;
 `;
+
+export const ResultContainer = styled.div`
+  padding: 25px;
+  display:grid;
+  gap: 25px;
+  justify-content:center;
+`

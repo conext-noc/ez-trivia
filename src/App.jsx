@@ -7,6 +7,7 @@ import {
   NextButton,
   Question,
   QuestionContainer,
+  ResultContainer,
 } from "./styles/App.styles.js";
 import ReactConfetti from "react-confetti";
 import data from "./assets/PREGUNTAS EXPOZULIA.json";
@@ -88,9 +89,9 @@ const App = () => {
           </QuestionContainer>
         </>
       ) : (
-        <div>
+        <ResultContainer>
           <h3>TU PUNTUACION HA SIDO {score}</h3>
-          {score >= 2 && isFinished ? (score === 3 ? "Jugador Estrella, Reclama tu premio!" : "Casi perfecto Reclama tu premio!!") : "No es tu dia de suerte, Intentalo de nuevo"}
+          <p>{score >= 2 && isFinished ? (score === 3 ? "Jugador Estrella, Reclama tu premio!" : "Casi perfecto Reclama tu premio!!") : "No es tu dia de suerte, Intentalo de nuevo"}</p>
           <ReactConfetti
             width={windowDimensions.width}
             height={windowDimensions.height}
@@ -98,7 +99,7 @@ const App = () => {
             tweenDuration={1000}
           />
           <NextButton className="ribbon-outset border" onClick={resetHandler}>Reiniciar</NextButton>
-        </div>
+        </ResultContainer>
       )}
       <footer>
         <img src={footerImg} alt="footer"  width="150px"/>
