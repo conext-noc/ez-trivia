@@ -7,7 +7,6 @@ import {
   NextButton,
   Question,
   QuestionContainer,
-  QuestionTitle,
 } from "./styles/App.styles.js";
 import ReactConfetti from "react-confetti";
 import data from "./assets/PREGUNTAS EXPOZULIA.json";
@@ -73,7 +72,6 @@ const App = () => {
         <>
           <QuestionContainer>
             <Question>
-              <QuestionTitle>PREGUNTA OZ:</QuestionTitle>
               <h4>{data[next]?.PREGUNTA}</h4>
             </Question>
             <AnswerContainer>
@@ -91,7 +89,8 @@ const App = () => {
         </>
       ) : (
         <div>
-          {score >= 2 && isFinished ? "GANASTE! 😄 🎉" : "INTENTA DE NUEVO 😕"}
+          <h3>TU PUNTUACION HA SIDO {score}</h3>
+          {score >= 2 && isFinished ? (score === 3 ? "Jugador Estrella, Reclama tu premio!" : "Casi perfecto Reclama tu premio!!") : "No es tu dia de suerte, Intentalo de nuevo"}
           <ReactConfetti
             width={windowDimensions.width}
             height={windowDimensions.height}
