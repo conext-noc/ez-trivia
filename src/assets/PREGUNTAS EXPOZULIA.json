@@ -125,7 +125,7 @@
    ]
 },
  {
-   "PREGUNTA": "¿De las que te presentamos, ¿qué red social nació primero?",
+   "PREGUNTA": "¿De las que te presentamos, Á¿qué red social nació primero?",
    "OPCIONES": [
       {
          "value": "Facebook",
@@ -175,7 +175,7 @@
    ]
 },
  {
-   "PREGUNTA": "En qué año llegó el internet a Venezuela?",
+   "PREGUNTA": "¿En qué año llegó el internet a Venezuela?",
    "OPCIONES": [
       {
          "value": "1989",
@@ -200,7 +200,7 @@
    ]
 },
  {
-   "PREGUNTA": "Cuál es el slogan de OZ.?",
+   "PREGUNTA": "¿Cuál es el slogan de OZ.?",
    "OPCIONES": [
       {
          "value": "Conectamos millones de experiencias",
@@ -225,7 +225,7 @@
    ]
 },
  {
-   "PREGUNTA": "¿En qué año OZ. Realizó la primera instalación residencial?",
+   "PREGUNTA": "¿En qué año OZ. realizó la primera instalación residencial?",
    "OPCIONES": [
       {
          "value": "2020",
@@ -375,7 +375,7 @@
    ]
 },
  {
-   "PREGUNTA": "¿Con cuál promoción contamos actualmnete?",
+   "PREGUNTA": "¿Con cuál promoción contamos actualmente?",
    "OPCIONES": [
       {
          "value": "Instalación GRATIS",
@@ -400,7 +400,7 @@
    ]
 },
  {
-   "PREGUNTA": "¿Cuál fue la primera zona en la cual OZ. Prestó servicio?",
+   "PREGUNTA": "¿Cuál fue la primera zona en la cual OZ. prestó servicio?",
    "OPCIONES": [
       {
          "value": "la lago",
@@ -475,7 +475,7 @@
    ]
 },
  {
-   "PREGUNTA": "¿Cual es otro uso que se le da a la fibra optica?",
+   "PREGUNTA": "¿Cuál es otro uso que se le da a la fibra óptica?",
    "OPCIONES": [
       {
          "value": "electricidad",
@@ -500,7 +500,7 @@
    ]
 },
  {
-   "PREGUNTA": "¿En que año salio el primer iphone?",
+   "PREGUNTA": "¿En que año salió el primer iphone?",
    "OPCIONES": [
       {
          "value": "2011",
@@ -525,7 +525,7 @@
    ]
 },
  {
-   "PREGUNTA": "¿Quien invento la fibra optica?",
+   "PREGUNTA": "¿Quién inventó la fibra óptica?",
    "OPCIONES": [
       {
          "value": "Mark Zuckerberg",
@@ -550,7 +550,7 @@
    ]
 },
  {
-   "PREGUNTA": "¿Cual es el mejor tipo de red?",
+   "PREGUNTA": "¿Cuál es el mejor tipo de red?",
    "OPCIONES": [
       {
          "value": "Cobre",
@@ -560,7 +560,7 @@
       {
          "value": "Fibra",
          "key": "B",
-         "isCorrect": true
+         "isCorrect": false
       },
       {
          "value": "Inalámbrica",
@@ -575,7 +575,7 @@
    ]
 },
  {
-   "PREGUNTA": "¿Cual fue el primer navegador web?",
+   "PREGUNTA": "¿Cuál fue el primer navegador web?",
    "OPCIONES": [
       {
          "value": "Mozilla Firefox",
@@ -600,7 +600,7 @@
    ]
 },
  {
-   "PREGUNTA": "¿Como se pronuncia oz?",
+   "PREGUNTA": "¿Cómo se pronuncia oz?",
    "OPCIONES": [
       {
          "value": "Ozeta",
@@ -625,7 +625,7 @@
    ]
 },
  {
-   "PREGUNTA": "¿De que pais proviene la empresa Sony?",
+   "PREGUNTA": "¿De qué pais proviene la empresa Sony?",
    "OPCIONES": [
       {
          "value": "Japon",
@@ -650,7 +650,7 @@
    ]
 },
  {
-   "PREGUNTA": "¿De cual pais de Asia proviene Samsung?",
+   "PREGUNTA": "¿De cuál pais de Asia proviene Samsung?",
    "OPCIONES": [
       {
          "value": "Corea del Sur",
@@ -675,7 +675,32 @@
    ]
 },
  {
-   "PREGUNTA": "¿Que aplicación requiere mas ancho de banda?",
+   "PREGUNTA": "¿En qué año se creó el primer juego multijugador?",
+   "OPCIONES": [
+      {
+         "value": "1978",
+         "key": "A",
+         "isCorrect": true
+      },
+      {
+         "value": "1980",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "1990",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "2001",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Qué aplicación requiere mas ancho de banda?",
    "OPCIONES": [
       {
          "value": "WhatsApp",
@@ -700,7 +725,7 @@
    ]
 },
  {
-   "PREGUNTA": "¿Cual de estos juegos no necesita internet?",
+   "PREGUNTA": "¿Cuál de estos juegos no necesita internet?",
    "OPCIONES": [
       {
          "value": "FortNite",
@@ -725,7 +750,7 @@
    ]
 },
  {
-   "PREGUNTA": "¿Cuales son los colores de la marca?",
+   "PREGUNTA": "¿Cuáles son los colores de la marca?",
    "OPCIONES": [
       {
          "value": "Negro, blanco y azul",
@@ -750,7 +775,7 @@
    ]
 },
  {
-   "PREGUNTA": "¿Que Estado de Venezuel tiene el mejor internet?",
+   "PREGUNTA": "¿Qué Estado de Venezuela tiene el mejor internet?",
    "OPCIONES": [
       {
          "value": "Zulia",
@@ -768,14 +793,14 @@
          "isCorrect": false
       },
       {
-         "value": "Bol¿var",
+         "value": "Bolívar",
          "key": "D",
          "isCorrect": false
       }
    ]
 },
  {
-   "PREGUNTA": "¿Cual es el sistema operativo mas usado?",
+   "PREGUNTA": "¿Cuál es el sistema operativo mas usado?",
    "OPCIONES": [
       {
          "value": "Windows",
@@ -800,7 +825,7 @@
    ]
 },
  {
-   "PREGUNTA": "¿Cual es la velocidad ideal para navegar tranquilamente?",
+   "PREGUNTA": "¿Cuál es la velocidad ideal para navegar tranquilamente?",
    "OPCIONES": [
       {
          "value": "1000",
@@ -825,7 +850,7 @@
    ]
 },
  {
-   "PREGUNTA": "¿Cuantos años cumplio OZ este Aniversario?",
+   "PREGUNTA": "¿Cuántos años cumplió OZ este Aniversario?",
    "OPCIONES": [
       {
          "value": "3",
@@ -850,7 +875,7 @@
    ]
 },
  {
-   "PREGUNTA": "¿Como se llama el equipo que da internet en tu casa?",
+   "PREGUNTA": "¿Cómo se llama el equipo que da internet en tu casa?",
    "OPCIONES": [
       {
          "value": "Switch",
@@ -875,7 +900,7 @@
    ]
 },
  {
-   "PREGUNTA": "¿Cuantos pueros lan tiene normalmente un router?",
+   "PREGUNTA": "¿Cuántos puertos LAN tiene normalmente un router?",
    "OPCIONES": [
       {
          "value": "4",
@@ -900,7 +925,7 @@
    ]
 },
  {
-   "PREGUNTA": "¿Como se llama el cable que da internet?",
+   "PREGUNTA": "¿Cómo se llama el cable que da internet?",
    "OPCIONES": [
       {
          "value": "USB",
@@ -925,7 +950,7 @@
    ]
 },
  {
-   "PREGUNTA": "¿Como se llama el navegador de Apple?",
+   "PREGUNTA": "¿Cómo se llama el navegador de Apple?",
    "OPCIONES": [
       {
          "value": "Safari",
@@ -944,30 +969,6 @@
       },
       {
          "value": "Firefox",
-         "key": "D",
-         "isCorrect": false
-      }
-   ]
-},{
-   "PREGUNTA": "¿En que año se creo el primer juego multijugador?",
-   "OPCIONES": [
-      {
-         "value": "1978",
-         "key": "A",
-         "isCorrect": true
-      },
-      {
-         "value": "1980",
-         "key": "B",
-         "isCorrect": false
-      },
-      {
-         "value": "1990",
-         "key": "C",
-         "isCorrect": false
-      },
-      {
-         "value": "2001",
          "key": "D",
          "isCorrect": false
       }

@@ -59,7 +59,7 @@ export const Question = styled.div`
 `;
 
 export const AnswerContainer = styled.div`
-  width: 100%;
+  width: 25%;
   height: 60%;
   display: grid;
   justify-content: center;
@@ -78,7 +78,7 @@ export const Answer = styled.div`
   justify-content: center;
   align-items: center;
   background: url(${ansField}) no-repeat center;
-  background-size: 60% 100%;
+  background-size: 100% 100%;
 
   &.correct {
     background-image: url(${ansGoodField});
@@ -86,8 +86,13 @@ export const Answer = styled.div`
   &.incorrect {
     background-image: url(${ansBadField});
   }
+  @media (max-width: 800px){
+    font-size: 16px;
+    width: 60vw;
+  }
   @media (max-width: 400px){
-    background-size: 120% 100%;
+    font-size: 12px;
+    width: 60vw;
   }
 `;
 
