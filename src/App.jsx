@@ -90,7 +90,7 @@ const App = () => {
         </>
       ) : (
         <ResultContainer>
-          <h3>TU PUNTUACION HA SIDO {score}</h3>
+          <h3>TU PUNTUACIÓN HA SIDO {score}</h3>
           <p>{score >= 2 && isFinished ? (score === 3 ? "Jugador Estrella, Reclama tu premio!" : "Casi perfecto reclama tu premio o inténtalo de nuevo!!") : "No es tu día de suerte, Inténtalo de nuevo"}</p>
           <ReactConfetti
             width={windowDimensions.width}
