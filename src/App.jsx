@@ -20,7 +20,7 @@ const App = () => {
     height: window.innerHeight,
   });
 
-  const [next, setNext] = useState(Math.floor(Math.random() * 39));
+  const [next, setNext] = useState(Math.floor(Math.random() * data.length));
   const [score, setScore] = useState(0);
   const [currentQuestion, setCurrentCuestion] = useState(0);
   const [selectedAns, setSelectedAns] = useState(null);
@@ -51,10 +51,9 @@ const App = () => {
       setStyledAns("");
       if (currentQuestion === 2) {
         setIsFinished(true);
-        setNext(Math.floor(Math.random() * 39));
+        setNext((curr) => Math.floor(Math.random() * data.length) !== curr ? Math.floor(Math.random() * data.length) : curr + 1);
       } else {
-        if (Math.floor(Math.random() * 39 === next)) setNext(next + 1);
-        setNext(Math.floor(Math.random() * 39));
+        setNext((curr) => Math.floor(Math.random() * data.length) !== curr ? Math.floor(Math.random() * data.length) : curr + 1);
       }
     }, 1500);
   };

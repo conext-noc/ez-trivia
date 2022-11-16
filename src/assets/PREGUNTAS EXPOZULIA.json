@@ -973,5 +973,605 @@
          "isCorrect": false
       }
    ]
+},
+ {
+   "PREGUNTA": "¿Qué significa VENITA?",
+   "OPCIONES": [
+      {
+         "value": "Venas del corazón",
+         "key": "A",
+         "isCorrect": false
+      },
+      {
+         "value": "Venezuela-Italia",
+         "key": "B",
+         "isCorrect": true
+      },
+      {
+         "value": "Es una palabra inventada",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "gnifica Aroma en italia",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿De donde vienen nuestros granos?",
+   "OPCIONES": [
+      {
+         "value": "Turquía",
+         "key": "A",
+         "isCorrect": false
+      },
+      {
+         "value": "Colombia",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "Merida, Vzla",
+         "key": "C",
+         "isCorrect": true
+      },
+      {
+         "value": "Italia",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Cuál es nuestro concepto?",
+   "OPCIONES": [
+      {
+         "value": "Café venezolano procesado en italia",
+         "key": "A",
+         "isCorrect": false
+      },
+      {
+         "value": "Café para todos los gustos",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "Café Versatil Italo- Venezolano",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "Todas las anteriores",
+         "key": "D",
+         "isCorrect": true
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Cómo se llaman nuestras lineas?",
+   "OPCIONES": [
+      {
+         "value": "Sapori, Aromi, Cialde",
+         "key": "A",
+         "isCorrect": true
+      },
+      {
+         "value": "Capsulas/Molido",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "Capsulas grandes/pequeñas",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "Sabores/Aromas",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Diferencias de Blend y 100% arabica?",
+   "OPCIONES": [
+      {
+         "value": "Uno es más fuerte que otro",
+         "key": "A",
+         "isCorrect": false
+      },
+      {
+         "value": "Uno tiene más café",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "Blend es una mezcla y 100% es puro",
+         "key": "C",
+         "isCorrect": true
+      },
+      {
+         "value": "Uno es más organico",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Solo vendemos café?",
+   "OPCIONES": [
+      {
+         "value": "Si",
+         "key": "A",
+         "isCorrect": false
+      },
+      {
+         "value": "Café y Té",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "Tenemos cremas, café, chocolates, y té",
+         "key": "C",
+         "isCorrect": true
+      },
+      {
+         "value": "No se",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Cuál es el producto más vendido?",
+   "OPCIONES": [
+      {
+         "value": "capsulas dolce gusto",
+         "key": "A",
+         "isCorrect": true
+      },
+      {
+         "value": "Café molido",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "Capsulas para nespresso",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "Las maquinas",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Cuál es el sabor más exotico?",
+   "OPCIONES": [
+      {
+         "value": "Chocolate + menta",
+         "key": "A",
+         "isCorrect": false
+      },
+      {
+         "value": "Ginseng",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "Golden Mlik",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "Ginseng Caramelo",
+         "key": "D",
+         "isCorrect": true
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Cuál es el beneficio del ginseng?",
+   "OPCIONES": [
+      {
+         "value": "Energizante",
+         "key": "A",
+         "isCorrect": false
+      },
+      {
+         "value": "ejora estado de anim",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "Reduce estress",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "Todas las anteriores",
+         "key": "D",
+         "isCorrect": true
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Qué es el ginseng?",
+   "OPCIONES": [
+      {
+         "value": "un condimento",
+         "key": "A",
+         "isCorrect": false
+      },
+      {
+         "value": "una planta/rama",
+         "key": "B",
+         "isCorrect": true
+      },
+      {
+         "value": "un tuberculo",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "ninguna de las anteriores",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Por qué el nocciolino es el favorito?",
+   "OPCIONES": [
+      {
+         "value": "para saberlo tienes que probarlo",
+         "key": "A",
+         "isCorrect": false
+      },
+      {
+         "value": "porque sabe a nutella",
+         "key": "B",
+         "isCorrect": true
+      },
+      {
+         "value": "por que es divino",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "por que es muy cremos",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Qué significa nocciolino?",
+   "OPCIONES": [
+      {
+         "value": "Café cremoso",
+         "key": "A",
+         "isCorrect": false
+      },
+      {
+         "value": "NUEZ",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "viene de avellana en Italiano",
+         "key": "C",
+         "isCorrect": true
+      },
+      {
+         "value": "No se",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Cuantás capsulas trae la caja de SAPORI (Dolce Gusto?",
+   "OPCIONES": [
+      {
+         "value": "11",
+         "key": "A",
+         "isCorrect": false
+      },
+      {
+         "value": "18",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "15",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "16",
+         "key": "D",
+         "isCorrect": true
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Cuál es nuestro slogan?",
+   "OPCIONES": [
+      {
+         "value": "El café que te hace volar",
+         "key": "A",
+         "isCorrect": false
+      },
+      {
+         "value": "El café que te eleva",
+         "key": "B",
+         "isCorrect": true
+      },
+      {
+         "value": "Aromas que te elevan",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "El café de tus mañanas",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Dónde y cuando fue la primera siembra de café en vzla?",
+   "OPCIONES": [
+      {
+         "value": "Merida 1840",
+         "key": "A",
+         "isCorrect": false
+      },
+      {
+         "value": "Bolivar año 1730",
+         "key": "B",
+         "isCorrect": true
+      },
+      {
+         "value": "Tachira 1900",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "Estado trujillo 1650",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Dónde queda nuestra boutique en Maracaibo?",
+   "OPCIONES": [
+      {
+         "value": "C.C Camoruco",
+         "key": "A",
+         "isCorrect": false
+      },
+      {
+         "value": "Plaza 75",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "Terraza 77",
+         "key": "C",
+         "isCorrect": true
+      },
+      {
+         "value": "Costa Verde",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿En que año abrimos nuestra boutique?",
+   "OPCIONES": [
+      {
+         "value": "2019",
+         "key": "A",
+         "isCorrect": false
+      },
+      {
+         "value": "2018",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "2020",
+         "key": "C",
+         "isCorrect": true
+      },
+      {
+         "value": "2021",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Cuántos sabores de té tenemos?",
+   "OPCIONES": [
+      {
+         "value": "5",
+         "key": "A",
+         "isCorrect": true
+      },
+      {
+         "value": "10",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "8",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "6",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Cuál es el sabor más vendido?",
+   "OPCIONES": [
+      {
+         "value": "Nocciolino",
+         "key": "A",
+         "isCorrect": false
+      },
+      {
+         "value": "Creme Brulee",
+         "key": "B",
+         "isCorrect": true
+      },
+      {
+         "value": "Capuccino",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "Cortado",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Qué significa creme brulee?",
+   "OPCIONES": [
+      {
+         "value": "Crema pastelera",
+         "key": "A",
+         "isCorrect": false
+      },
+      {
+         "value": "postre frances",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "crema catalana",
+         "key": "C",
+         "isCorrect": true
+      },
+      {
+         "value": "Postre de vainilla",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Qué sabores de chocolates tenemos?",
+   "OPCIONES": [
+      {
+         "value": "Chocolate + menta",
+         "key": "A",
+         "isCorrect": false
+      },
+      {
+         "value": "Chocolate + naranja",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "Chocolate blanco",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "Todas las anteriores",
+         "key": "D",
+         "isCorrect": true
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Cómo es un día sin café venita?",
+   "OPCIONES": [
+      {
+         "value": "Triste",
+         "key": "A",
+         "isCorrect": false
+      },
+      {
+         "value": "aburrido",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "sin energia",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "Todas las anteriores",
+         "key": "D",
+         "isCorrect": true
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿solo tenemos capsulas?",
+   "OPCIONES": [
+      {
+         "value": "capsulas, cialdas, molido y en grano",
+         "key": "A",
+         "isCorrect": true
+      },
+      {
+         "value": "capsulas y molido",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "capsulas y en grano",
+         "key": "C",
+         "isCorrect": false
+      },
+      {
+         "value": "capsulas y pods",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
+},
+ {
+   "PREGUNTA": "¿Cómo es nuestro instagram? (zulia)",
+   "OPCIONES": [
+      {
+         "value": "cafevenitazulia",
+         "key": "A",
+         "isCorrect": false
+      },
+      {
+         "value": "cafevenita",
+         "key": "B",
+         "isCorrect": false
+      },
+      {
+         "value": "grupovenita",
+         "key": "C",
+         "isCorrect": true
+      },
+      {
+         "value": "venitazulia",
+         "key": "D",
+         "isCorrect": false
+      }
+   ]
 }
 ]
