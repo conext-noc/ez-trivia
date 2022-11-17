@@ -49,7 +49,7 @@ const App = () => {
 
     setTimeout(() => {
       setStyledAns("");
-      if (currentQuestion === 2) {
+      if (currentQuestion === 4) {
         setIsFinished(true);
         setNext((curr) => Math.floor(Math.random() * data.length) !== curr ? Math.floor(Math.random() * data.length) : curr + 1);
       } else {
@@ -90,7 +90,7 @@ const App = () => {
       ) : (
         <ResultContainer>
           <h3>TU PUNTUACIÓN HA SIDO {score}</h3>
-          <p>{score >= 2 && isFinished ? (score === 3 ? "Jugador Estrella, Reclama tu premio!" : "Casi perfecto reclama tu premio o inténtalo de nuevo!!") : "No es tu día de suerte, Inténtalo de nuevo"}</p>
+          <p>{score >= 4 && isFinished ? (score === 5 ? "Jugador Estrella, Reclama tu premio!" : "Casi perfecto reclama tu premio o inténtalo de nuevo!!") : "No es tu día de suerte, Inténtalo de nuevo"}</p>
           <ReactConfetti
             width={windowDimensions.width}
             height={windowDimensions.height}
